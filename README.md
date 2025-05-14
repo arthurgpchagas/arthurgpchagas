@@ -55,6 +55,6 @@ I specialize in:
 
 ## 📬 Get in Touch
 - **LinkedIn:** [Arthur Chagas](https://www.linkedin.com/in/arthur-chagas-72842a4a/)
-- **Email:** arthurchagas01@gmail.com
+- **Email:** arthurchagas01@gmail.com ou arthurchagas01@icloud.com
 
 💡 *Always open to collaborations and new opportunities!* 🚀
