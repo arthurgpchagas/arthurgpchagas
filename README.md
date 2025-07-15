@@ -45,6 +45,7 @@ I specialize in:
   
 🖥️ **Live Websites:**
 - **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
+- **[The Pet Office website](https://portfolio-veterinary-website-nextjs.vercel.app/)** - Website for a Veterinarian Care Business
 
 ---
 
