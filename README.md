@@ -41,7 +41,7 @@ I specialize in:
 
 ### **🎨 Frontend Projects**
 - **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design. Check it out **[here!](https://js-developer-pokedex-psi.vercel.app/)**
-- **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure.
+- **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure. Check it out **[here!](https://angular-psn-store-pi.vercel.app/)**
   
 🖥️ **Live Websites:**
 - **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
