@@ -40,7 +40,7 @@ I specialize in:
 - **[Simplified Money Transfer System](https://github.com/Arthurchagas01/simplified-picpay-money-transfer-python)** - A simplified transfer system inspired by PicPay, developed in Python with FastAPI and PostgreSQL, enabling transactions between users with balance validation and external authorization.
 
 ### **🎨 Frontend Projects**
-- **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design.
+- **[Pokedéx](https://github.com/Arthurchagas01/js-developer-pokedex)** - A minimalist Pokédex built with JavaScript, HTML, and CSS, fetching data from the Pokémon V2 API to display essential Pokémon information with a clean and intuitive design. Check it out **[here!](https://js-developer-pokedex-psi.vercel.app/)**
 - **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure.
   
 🖥️ **Live Websites:**
