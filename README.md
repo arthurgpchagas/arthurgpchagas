@@ -51,7 +51,7 @@ With a background in Electrical Engineering and experience in fintechs like Nuba
 - **[PSN Store Replica](https://github.com/Arthurchagas01/angular-psn-store)** - This project is a visual replica of the PlayStation Store (PSN), built with Angular to demonstrate UI development and component structure. Check it out **[here!](https://angular-psn-store-pi.vercel.app/)**
   
 ## **Live Websites:**
-- **[Portfolio Website for a Woodworking Business](https://arthurchagas01.github.io/portfolio-custom-woodworking-website-react/)** - Showcase of custom woodworking projects.
+- **[Portfolio Website for a Woodworking Business](https://portfolio-custom-woodworking-websit.vercel.app/)** - Showcase of custom woodworking projects.
 - **[The Pet Office website](https://portfolio-veterinary-website-nextjs.vercel.app/)** - Website for a Veterinarian Care Business
 
 ---
