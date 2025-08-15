@@ -52,7 +52,7 @@ With a background in Electrical Engineering and experience in fintechs like Nuba
   
 ## **Live Websites:**
 - **[Portfolio Website for a Woodworking Business](https://portfolio-custom-woodworking-websit.vercel.app/)** - Showcase of custom woodworking projects.
-- **[The Pet Office website](https://portfolio-veterinary-website-nextjs.vercel.app/)** - Website for a Veterinarian Care Business
+- **[The Pet Office website](https://www.thepetoffice.com.br/)** - Website for a Veterinarian Care Business
 
 ---
 
